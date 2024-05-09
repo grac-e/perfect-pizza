@@ -43,10 +43,19 @@ body {
 
 .contact_details {
     background-color: #bc4749;
+    padding-bottom: 5em;
 }
 
 @media (min-width: 960px) {
     .pizzas {
         display: flex;
     }
+}
+
+.contact {
+    float: inline-start;
+}
+
+.address {
+    float: inline-end;
 }
