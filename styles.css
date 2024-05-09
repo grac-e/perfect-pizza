@@ -13,14 +13,32 @@ body {
 
 .small_pizza {
     background-color: #a7c957;
+
+    img {
+        float: left;
+        margin: 0.5em;
+        clear: left;
+    }
 }
 
 .medium_pizza {
     background-color: #6a994e;
+
+    img {
+        float: left;
+        margin: 0.5em;
+        clear: left;
+    }
 }
 
 .large_pizza {
     background-color: #4f772d;
+
+    img {
+        float: left;
+        margin: 0.2em;
+        clear: left;
+    }
 }
 
 .contact_details {
